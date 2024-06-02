@@ -4,20 +4,29 @@ This project involved utilizing advanced clustering algorithms to analyze and se
 # Skills Demonstrated:
 
 Data Preprocessing and Visualization
+
 K-means Clustering
+
 Hierarchical Clustering
+
 Analytical Reporting
 
 # Features
 Implementation of K-means clustering to identify optimal groupings in customer data.
+
 Use of hierarchical clustering for detailed dendrogram analysis.
+
 Advanced data preprocessing techniques to prepare data for clustering.
+
 Interactive visualizations to represent clustering outcomes.
 
 # Technologies Used
 Python 3.8
+
 Pandas for data manipulation
+
 Scikit-learn for clustering algorithms
+
 Matplotlib and Seaborn for data visualization
 
 # License
